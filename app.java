@@ -2,7 +2,6 @@
 main()
 {
 
-  System.out.println("My first Git program");
-  System.out.printl("end");
+  System.out.println("My first Git program123");
   
   }
